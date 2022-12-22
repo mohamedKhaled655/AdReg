@@ -1,0 +1,10 @@
+
+abstract class AdvisorAllStudentStates{}
+
+class AdvisorAllStudentInitialState extends AdvisorAllStudentStates{}
+class AdvisorAllStudentSuccessHomeDataState extends AdvisorAllStudentStates{}
+class AdvisorAllStudentLoadingHomeDataState extends AdvisorAllStudentStates{}
+class AdvisorAllStudentErrorHomeDataState extends AdvisorAllStudentStates{}
+
+
+

@@ -1,0 +1,10 @@
+
+abstract class AdvisorHomeScreenStates{}
+
+class AdvisorHomeScreenInitialState extends AdvisorHomeScreenStates{}
+class AdvisorHomeScreenSuccessHomeDataState extends AdvisorHomeScreenStates{}
+class AdvisorHomeScreenLoadingHomeDataState extends AdvisorHomeScreenStates{}
+class AdvisorHomeScreenErrorHomeDataState extends AdvisorHomeScreenStates{}
+
+
+
